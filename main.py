@@ -48,7 +48,7 @@ def takeCommand():
             return "None"
         return statement
 
-speak("Loading your AI personal assistant lola")
+speak("Loading your personal assistant lola")
 wishMe()
 
 
